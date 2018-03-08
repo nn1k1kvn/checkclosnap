@@ -19,3 +19,5 @@ curl -C - -O https://raw.githubusercontent.com/EthereumCommonwealth/Callisto-Sna
 ```bash
 ./checkclosnap 0x4E034B79Baf6905DCc8720af15f986f59E33f402
 ```
+## Demo
+[![Demo](https://user-images.githubusercontent.com/17894124/37159225-f9f0672e-22f5-11e8-9262-aad7fb7d98e1.gif)](https://www.youtube.com/watch?v=0_vb3v2p08U)
