@@ -21,7 +21,7 @@ curl -C - -O https://raw.githubusercontent.com/EthereumCommonwealth/Callisto-Sna
 ```
 
 ## Or download  cross compiled binary 
-[checkclosnap](checkclosnap) size 151 KB
+[checkclosnap](checkclosnap) (size 151 KB)
 
 md5sum:     997e0121ac47b43c0b41bae4cf292def
 
