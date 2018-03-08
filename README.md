@@ -24,6 +24,7 @@ curl -C - -O https://raw.githubusercontent.com/EthereumCommonwealth/Callisto-Sna
 [checkclosnap](checkclosnap) 
 
 md5sum:     997e0121ac47b43c0b41bae4cf292def
+
 sha256sum:  773d490e3b05149ea24af4924fd4d313eee3bf3f92d3e3cc4b712d1f48abaa66
 
 ## Demo
