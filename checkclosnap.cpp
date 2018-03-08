@@ -63,7 +63,7 @@ int main(int argc, char *argv[]) {
   	if (line.find(address) != string::npos) {
   		 etc = get_etc(line);
   		 cout << fixed;
-  		 cout.precision(6);
+  		 cout.precision(18);
   		 cout << "Row: " << row << endl;
   		 cout << "Address: " << address << endl;
   		 cout << "Balance: " << etc << " CLO" << endl;
